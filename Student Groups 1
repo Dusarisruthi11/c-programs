@@ -1,3 +1,5 @@
+CONDITION:
+
 Accept total number of participants in class. A group of four divisions has to be created from registered participants. 
 Total no of participants “P” 100>=p<=200 Note: If number of participants entered by user is less than 100 or greater than
 200 display “INVALID INPUT” and quit.
