@@ -1,3 +1,5 @@
+CONDITION:
+
 Write a program to find whether a given character is an uppercase, lowercase, number or symbol. If it is an alphabet find whether it is an Uppercase or Lowercase.
 If it is a number display Number else display Symbol.
 
